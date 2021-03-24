@@ -1,6 +1,8 @@
 # Semantic-Segmentation
 Files implementing semantic segmentation using the Google Deeplab3 model
 
+# Semantic Segmentation : https://nanonets.com/blog/semantic-image-segmentation-2020/
+
 # File 1:
 
 Implements semantic segmentation using Google Deeplab3 pretrained model and Pytorch.
